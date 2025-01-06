@@ -1,6 +1,6 @@
 public class LeetCode205_IsomorphicStrings {
     public static void main(String[] args) {
-        isIsomorphic("foo","bar");
+        System.out.println(isIsomorphic("foo","bab"));
     }
 
     public static boolean isIsomorphic(String s, String t) {
